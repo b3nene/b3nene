@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bene
-- 👀 interested in kubernetes and homelab stuff
+- 👀 interested in kubernetes, cluster and homelab stuff
 - 🌶️ eat spicy food
 - 🥏 play Ultimate
 <!---
